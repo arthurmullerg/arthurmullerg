@@ -7,7 +7,7 @@
 
 ## 🚀 Tecnologias & Ferramentas  
 🔹 **Desenvolvimento Web:** HTML e CSS<br>
-🔹 **Design & Produtividade:** Photoshop, Illustrator, Excel  
+🔹 **Design & Produtividade:** Photoshop, Illustrator, Excel e Canva 
 🔹 **Banco de Dados:** SQL  
 
 <p align="left">
