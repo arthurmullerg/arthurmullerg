@@ -3,7 +3,6 @@
 ## 💻 Sobre mim  
 - 🎓 Cursando **Técnico em Informática** e **Ensino Médio**  
 - 📚 Aprimorando meu inglês  
-- 🖥️ Atualmente, sou **professor de informática na Solução**
 
 ## 🚀 Tecnologias & Ferramentas  
 🔹 **Desenvolvimento Web:** HTML e CSS<br>
