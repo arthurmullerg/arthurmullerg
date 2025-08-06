@@ -5,7 +5,7 @@
 - 📚 Aprimorando meu inglês  
 
 ## 🚀 Tecnologias & Ferramentas  
-🔹 **Desenvolvimento Web:** HTML e CSS<br>
+🔹 **Desenvolvimento Web:** HTML,CSS, Bootsrap e JS<br>
 🔹 **Design & Produtividade:** Photoshop, Illustrator, Excel e Canva     
 🔹 **Banco de Dados:** SQL  
 
